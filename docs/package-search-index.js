@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"mx.unam.fi.poo"},{"l":"Pokemon"}];updateSearchResults();
